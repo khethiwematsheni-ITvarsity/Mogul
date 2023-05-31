@@ -34,15 +34,8 @@ $(document).ready(function(){
     });
 
     // typing text animation script
-    var typed = new Typed(".typing", {
-        strings: ["Spinning"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
-
     var typed = new Typed(".typing-2", {
-        strings: ["Maxwel Dekobo",],
+        strings: ["Maxwel Dikobo",],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
